@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{1D0EB8AF-5A0A-44B1-A23E-CFB831A981B7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Repaso10/Program.cs">
+    <Files>
+      <File FileName="Repaso10/Program.cs" Line="21" Column="59" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Repaso10" expanded="True">
+            <Node name="Repaso10" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.Repaso10 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

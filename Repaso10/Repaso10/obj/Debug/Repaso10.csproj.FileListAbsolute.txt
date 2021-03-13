@@ -1,0 +1,6 @@
+/Users/fede/Documents/GitHub/Repaso10/Repaso10/Repaso10/bin/Debug/Repaso10.exe
+/Users/fede/Documents/GitHub/Repaso10/Repaso10/Repaso10/bin/Debug/Repaso10.pdb
+/Users/fede/Documents/GitHub/Repaso10/Repaso10/Repaso10/obj/Debug/Repaso10.csprojAssemblyReference.cache
+/Users/fede/Documents/GitHub/Repaso10/Repaso10/Repaso10/obj/Debug/Repaso10.csproj.CoreCompileInputs.cache
+/Users/fede/Documents/GitHub/Repaso10/Repaso10/Repaso10/obj/Debug/Repaso10.exe
+/Users/fede/Documents/GitHub/Repaso10/Repaso10/Repaso10/obj/Debug/Repaso10.pdb
